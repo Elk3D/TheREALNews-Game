@@ -1,0 +1,43 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta-data may be ignored when using version control systems other than Git
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
